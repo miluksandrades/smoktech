@@ -41,7 +41,7 @@
                 var senha = document.getElementById("senha").value;
 
                 if (usuario === "admin" && senha === "admin") {
-                    location.href = "../index.html";
+                    location.href = "../index.php";
                 } else {
                     alert('Usuário não Existe');
                 }
