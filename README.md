@@ -1,2 +1,3 @@
 # smoktech
-Servidor que recebe sinais de satÃ©lite para detecÃ§Ã£o de incÃªndios
+
+Servidor que recebe sinais de satélite para detecção de incêndios
