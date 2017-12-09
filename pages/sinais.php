@@ -35,6 +35,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+                    <br/>
                     <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
                         <a class="nav-link" href="../index.php">
                             <i class="icons icon-home"></i>
@@ -66,38 +67,7 @@
         </nav>
         <div class="content-wrapper">
             <div class="container-fluid">
-                <div class="row">
-                    <div class="col-xl-3 col-sm-6 mb-3">
-                        <div class="card text-white bg-success o-hidden h-100">
-                            <div class="card-body">
-                                <div class="card-body-icon">
-                                    <i class="fa fa-fw fa-fire"></i>
-                                </div>
-                                <div class="mr-5">Grau 1</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-sm-6 mb-3">
-                        <div class="card text-white bg-warning o-hidden h-100">
-                            <div class="card-body">
-                                <div class="card-body-icon">
-                                    <i class="fa fa-fw fa-fire"></i>
-                                </div>
-                                <div class="mr-5">Grau 2</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-sm-6 mb-3">
-                        <div class="card text-white bg-danger o-hidden h-100">
-                            <div class="card-body">
-                                <div class="card-body-icon">
-                                    <i class="fa fa-fw fa-fire"></i>
-                                </div>
-                                <div class="mr-5">Grau 3</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
             </div>
             <div class="container-fluid">                
                 <div class="card mb-5">
@@ -105,7 +75,69 @@
                         <p class="lead text-white">Sinais Recebidos dos dispositivos <b>SmokTech</b></p>
                     </div>
                     <div class="card-body">
+                        <div class="row">
+                            <div class="col-xl-2 col-sm-4 mb-3">
+                                <div class="card text-white bg-success o-hidden h-100">
+                                    <div class="card-body">
+                                        <div class="card-body-icon">
+                                            <i class="fa fa-fw fa-fire"></i>
+                                        </div>
+                                        <div class="mr-5">Grau 1</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-2 col-sm-4 mb-3">
+                                <div class="card text-white bg-warning o-hidden h-100">
+                                    <div class="card-body">
+                                        <div class="card-body-icon">
+                                            <i class="fa fa-fw fa-fire"></i>
+                                        </div>
+                                        <div class="mr-5">Grau 2</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-2 col-sm-4 mb-3">
+                                <div class="card text-white bg-danger o-hidden h-100">
+                                    <div class="card-body">
+                                        <div class="card-body-icon">
+                                            <i class="fa fa-fw fa-fire"></i>
+                                        </div>
+                                        <div class="mr-5">Grau 3</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div class="container-fluid" id="map" style="width: 100%; height: 400px" >
+                        </div>
+                        <br/>
+                        <div class="container-fluid" style="height: 300px; overflow: auto">
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 4231 - Sinal <em>carbon monoxide</em> Detected. Grau 2. Transmition: Good. Esdras: <em style="color: green">OK</em></code><br/>
+                            <code>[2017-06-11][12:40:38] APA - 5423 - Sinal <em>carbon dioxide</em> Detected. Grau 3. Transmition: <em style="color: green">Excelent</em>. Esdras: <em style="color: green">OK</em></code><br/>
                         </div>
                     </div>
 
@@ -147,9 +179,6 @@
             <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
             <!-- Custom scripts for all pages-->
             <script src="../js/sb-admin.min.js"></script>
-            <!-- Custom scripts for this page-->
-            <script src="../js/sb-admin-datatables.min.js"></script>
-            <script src="../js/sb-admin-charts.min.js"></script>
             <script>
                 var markersData = [
                     {
@@ -169,6 +198,18 @@
                         lng: -53.402069,
                         nome: 'Estação Ecológica da Terra do Meio',
                         grau: 'Grau 2'
+                    },
+                    {
+                        lat: -5.282098,
+                        lng: -53.752240,
+                        nome: 'Terra do Meio',
+                        grau: 'Grau 1'
+                    },
+                    {
+                        lat: -4.910040,
+                        lng:-53.536632,
+                        nome: 'Terra do Meio',
+                        grau: 'Grau 2'
                     }
 
                 ];
@@ -176,8 +217,6 @@
                 function displayMarkers() {
                     var bounds = new google.maps.LatLngBounds();
 
-                    // Loop que vai percorrer a informação contida em markersData 
-                    // para que a função createMarker possa criar os marcadores 
                     for (var i = 0; i < markersData.length; i++) {
 
                         var latlng = new google.maps.LatLng(markersData[i].lat, markersData[i].lng);
@@ -186,15 +225,8 @@
 
                         createMarker(latlng, nome, grau);
 
-                        // Os valores de latitude e longitude do marcador são adicionados à
-                        // variável bounds
                         bounds.extend(latlng);
                     }
-
-                    // Depois de criados todos os marcadores,
-                    // a API, através da sua função fitBounds, vai redefinir o nível do zoom
-                    // e consequentemente a área do mapa abrangida de acordo com
-                    // as posições dos marcadores
                     map.fitBounds(bounds);
                 }
 
@@ -207,15 +239,12 @@
 
                     google.maps.event.addListener(marker, 'click', function () {
 
-                        // Variável que define a estrutura do HTML a inserir na Info Window.
                         var iwContent = '<div id="iw_container">' +
                                 '<div class="iw_title"><b style="font-size: 18px">' + nome + '</b></div><br/>' +
-                                '<div class="iw_content"><b style="color: red">'+grau+'</b><br />'+'<br />'+'</div></div>';
+                                '<div class="iw_content"><b style="color: red">' + grau + '</b><br />' + '<br />' + '</div></div>';
 
-                        // O conteúdo da variável iwContent é inserido na Info Window.
                         infoWindow.setContent(iwContent);
 
-                        // A Info Window é aberta com um click no marcador.
                         infoWindow.open(map, marker);
                     });
                 }
@@ -224,21 +253,16 @@
                     var mapOptions = {
                         center: new google.maps.LatLng(-5.074306, -53.693208),
                         zoon: 7,
-                        mapTypeId: 'roadmap'
+                        mapTypeId: 'terrain'
                     };
                     map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
-                    // Cria a nova Info Window com referência à variável infoWindow.
-                    // O conteúdo da Info Window é criado na função createMarker.
                     infoWindow = new google.maps.InfoWindow();
 
-                    // Evento que fecha a infoWindow com click no mapa.
                     google.maps.event.addListener(map, 'click', function () {
                         infoWindow.close();
                     });
 
-                    // Chamada para a função que vai percorrer a informação
-                    // contida na variável markersData e criar os marcadores a mostrar no mapa
                     displayMarkers();
                 }
                 google.maps.event.addDomListener(window, 'load', initMap);

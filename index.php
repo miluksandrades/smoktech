@@ -35,6 +35,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
+                    <br/>
                     <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
                         <a class="nav-link" href="index.php">
                             <i class="icons icon-home"></i>
@@ -86,7 +87,7 @@
                                         <p class="lead"><b>Responsável</b>: ICMBIO - Santa Cruz do Xingu - MT</p>
                                     </div>
                                     <div class="container-fluid">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d711243.1787171598!2d-52.80895812915924!3d-10.008550007262814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x931b4f475c862e01%3A0xc8ff3b05031707e3!2sParque+Estadual+do+Xingu!5e0!3m2!1spt-BR!2sbr!4v1512747033446" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m10!1m3!1d251621.19416195044!2d-52.673268502456146!3d-9.801461813789077!2m1!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc8ff3b05031707e3!2sParque+Estadual+do+Xingu!5e0!3m2!1spt-BR!2sbr!4v1512819690677" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +106,7 @@
                                         <p class="lead"><b>Responsável</b>: ICMBIO - Fordlândia - PA</p>
                                     </div>
                                     <div class="container-fluid">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1441645.2636140722!2d-54.39081289189122!3d-3.582861157275562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9289976fd9032f53%3A0x5b9a87adaf37784e!2sFloresta+Nacional+do+Tapaj%C3%B3s!5e0!3m2!1spt-BR!2sbr!4v1512747328364" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1019533.2531095741!2d-55.16024058381006!3d-3.458526843587805!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5b9a87adaf37784e!2sFloresta+Nacional+do+Tapaj%C3%B3s!5e0!3m2!1spt-BR!2sbr!4v1512819787970" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
                                     </div>
                                 </div>
                             </div>
@@ -124,7 +125,7 @@
                                         <p class="lead"><b>Responsável</b>: IBAMA - Santarém - PA</p>
                                     </div>
                                     <div class="container-fluid">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1442866.6590230642!2d-54.1383364105716!3d-2.69859037950827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x928f7a211e813a29%3A0x76670659f9febd3a!2sReserva+Extrativista+Renascer!5e0!3m2!1spt-BR!2sbr!4v1512747632834" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d606867.4766869993!2d-53.598581349804114!3d-2.222196516184657!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x76670659f9febd3a!2sReserva+Extrativista+Renascer!5e0!3m2!1spt-BR!2sbr!4v1512819871320" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
                                     </div>                                    
                                 </div>
                             </div>
@@ -143,7 +144,7 @@
                                         <p class="lead"><b>Responsável</b>: IBAMA - Porto de Moz - PA</p>
                                     </div>
                                     <div class="container-fluid">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1443032.538002898!2d-53.439170769994114!3d-2.555024048560314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9292478a14df424b%3A0xa10d7676687579a4!2sReserva+Extrativista+Verde+para+Sempre!5e0!3m2!1spt-BR!2sbr!4v1512747756472" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d510374.34967949614!2d-52.46540608549297!3d-2.035979038230093!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa10d7676687579a4!2sReserva+Extrativista+Verde+para+Sempre!5e0!3m2!1spt-BR!2sbr!4v1512819938366" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
                                     </div> 
                                     
                                 </div>
@@ -163,7 +164,7 @@
                                         <p class="lead"><b>Responsável</b>: IBAMA - Porto de Moz - PA</p>
                                     </div>
                                     <div class="container-fluid">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1443504.702833203!2d-52.65066729756501!3d-2.0931793451830143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9290a02c228bdecf%3A0x1e0e958fec8bc4e5!2sFloresta+Nacional+de+Caxiuan%C3%A3!5e0!3m2!1spt-BR!2sbr!4v1512747815743" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d510418.8715632716!2d-51.76535795312498!3d-1.8901631778590404!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1e0e958fec8bc4e5!2sFloresta+Nacional+de+Caxiuan%C3%A3!5e0!3m2!1spt-BR!2sbr!4v1512819992778" height="300" frameborder="0" style="border:0; width: 100%" allowfullscreen></iframe>
                                     </div> 
                                     
                                 </div>
